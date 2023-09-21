@@ -1,3 +1,13 @@
+#Opportunity evaluation: easy to develop and change
+
+#CRISP-DM Business Understanding: it can attachment use.
+
+#Validation plan: every one can use it
+
+#ML system design: streamlit can handle large working process
+
+#Potential risks in production: only works with csv
+
 import pandas as pd
 import streamlit as st
 from sklearn.model_selection import train_test_split
